@@ -1,6 +1,6 @@
 # Medical Clinic Simulation
 
-Simulação de uma clínica médica recorrendo a **simulação de eventos discretos**, desenvolvida no âmbito da unidade curricular **Algoritmos e Técnicas de Programação**, da **Licenciatura em Engenharia Biomédica (2.º ano)** – Universidade do Minho.
+Simulação de uma clínica médica no âmbito da unidade curricular **Algoritmos e Técnicas de Programação**, da **Licenciatura em Engenharia Biomédica (2.º ano)** – Universidade do Minho.
 
 ---
 
@@ -96,4 +96,5 @@ projeto_ATP_G6/
 ├── pessoas.json          # Dataset de pessoas (opcional)
 ├── config.py             # Parâmetros default da simulação
 └── README.md             # Relatório técnico do projeto
+
 
