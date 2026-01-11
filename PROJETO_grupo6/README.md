@@ -83,7 +83,7 @@ A aplicação dispõe de uma interface gráfica desenvolvida com **FreeSimpleGUI
 
 O projeto está organizado de forma modular, separando claramente a lógica da simulação, a interface gráfica e a análise de resultados.
 ```text
-projeto_ATP_G6/
+PROJETO_grupo6/
 ├── main.py               # Ponto de entrada da aplicação
 ├── gui.py                # Interface gráfica (FreeSimpleGUI)
 ├── simulation.py         # Motor principal da simulação
@@ -96,5 +96,6 @@ projeto_ATP_G6/
 ├── pessoas.json          # Dataset de pessoas (opcional)
 ├── config.py             # Parâmetros default da simulação
 └── README.md             # Relatório técnico do projeto
+
 
 
